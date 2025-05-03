@@ -12,13 +12,13 @@ const spaceGrotesk = Space_Grotesk({
 })
 
 export const metadata: Metadata = {
-  title: "John.dev - Full Stack Developer",
+  title: "Manish Sharma- Full Stack Developer",
   description: "Full stack developer portfolio showcasing projects and skills",
   themeColor: [
     { media: "(prefers-color-scheme: light)", color: "#ffffff" },
     { media: "(prefers-color-scheme: dark)", color: "#050505" },
   ],
-    generator: 'v0.dev'
+    generator: 'Manish Sharma'
 }
 
 export default function RootLayout({
